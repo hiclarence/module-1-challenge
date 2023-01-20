@@ -12,3 +12,10 @@ This includes
 - creating a clear and concise web title
 
 The CSS will be be refactored to be more concise and have less repetitive elements
+
+Image here: 
+
+![module-1-screenshot](./assets/Horiseon%20Social%20Solution%20Services%202023-01-20%2013-26-08.png)
+
+
+[Link to deployed application](https://hiclarence.github.io/module-1-challenge/)
